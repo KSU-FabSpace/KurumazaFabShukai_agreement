@@ -4,9 +4,9 @@
 ## 概要
 この参加同意書は、IAMASが作成した「[ハッカソン／メイカソン参加同意書](https://github.com/IAMAS/makeathon_agreement#readme)」を元に一部改変して作成しています。
 
-また、同意書内にある2．【アイデア】と4【クレジット】の項目はYCAMInterlabが作成した「[2015 YCAM Sports Hackathon の参加者のための同意書](https://github.com/YCAMInterlab/SportsHackathon_ConsentForm)」を使用・改変しています。
+また、同意書内にある2.【アイデア】と5.【クレジット】の項目はYCAMInterlabが作成した「[2015 YCAM Sports Hackathon の参加者のための同意書](https://github.com/YCAMInterlab/SportsHackathon_ConsentForm)」を使用・改変しています。
 
-同意書についての解説やポイントは、フォーク元の上記リンクをご参照ください。本来であればフォーク元2箇所からの派生を1つにするところですが、集約する方法が不明だったため、現在はIAMAS作成の同意書よりフォークし公開しています。
+同意書の解説やポイントは、フォーク元の上記リンクをご参照ください。本来であれば上記2箇所から1つの派生としたいところでしたが、集約方法が不明だったため、現在はIAMAS作成の同意書よりフォークし公開しています。
 
 この同意書は、2021年9月3日に実施した「車座Fab集会！《ファブ施設のリスクアセスメント編》」の申し込み用に作成・使用しました。
 
