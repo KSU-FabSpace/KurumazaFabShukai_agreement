@@ -8,9 +8,9 @@
 
 同意書の解説やポイントは、フォーク元の上記リンクをご参照ください。本来であれば上記2箇所から1つの派生としたいところでしたが、集約方法が不明だったため、現在はIAMAS作成の同意書よりフォークし公開しています。
 
-* agreement.md
+* [agreement.md](https://github.com/KSU-FabSpace/KurumazaFabShukai_agreement/blob/master/agreement.md)
   * この同意書は、2021年9月3日に実施した「車座Fab集会！《ファブ施設のリスクアセスメント編》」の申し込み用に作成・使用しました。
-* agreement02.md
+* [agreement02.md](https://github.com/KSU-FabSpace/KurumazaFabShukai_agreement/blob/master/agreement02.md)
   * この同意書は、2022年3月30日に実施の「車座Fab集会！vol.2 《ファブ施設運営のネガポジ編》」の申し込み用に「agreement.md」を更新・使用しました。
 
 ## 参考
