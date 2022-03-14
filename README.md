@@ -11,7 +11,7 @@
 * [agreement.md](https://github.com/KSU-FabSpace/KurumazaFabShukai_agreement/blob/master/agreement.md)
   * この同意書は、2021年9月3日に実施した「車座Fab集会！《ファブ施設のリスクアセスメント編》」の申し込み用に作成・使用しました。
 * [agreement02.md](https://github.com/KSU-FabSpace/KurumazaFabShukai_agreement/blob/master/agreement02.md)
-  * この同意書は、2022年3月30日に実施の「車座Fab集会！vol.2 《ファブ施設運営のネガポジ編》」の申し込み用に「agreement.md」を更新・使用しました。
+  * この同意書は、2022年3月30日に実施の「車座Fab集会！vol.2 《ファブ施設運営のネガポジ編》」の申し込み用に「agreement.md」の5.【クレジット】を更新・使用しました。
 
 ## 参考
 * [『ハッカソン／メイカソン参加同意書』の派生物をつくる際の考え方](https://qiita.com/mayfair/items/0298f16e96e920f8f271)
